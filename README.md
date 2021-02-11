@@ -12,3 +12,6 @@ Step 3 - Deactivate (If need to stop virtual env)
 Step 3:
 Install requirements:
 pip install -r requirements.txt
+
+Step 4:
+Run: python distribute_survey.py
